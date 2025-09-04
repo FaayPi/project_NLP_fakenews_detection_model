@@ -5,8 +5,8 @@ This document explains the complete machine learning pipeline implemented in `mo
 ## 1. Load Data Including Duplicate Check
 
 ### Data Loading
-- **Initial Data**: Loaded from `~/Downloads/data.csv`
-- **Validation Data**: Loaded from `~/Downloads/validation_data.csv`
+- **Initial Data**: Loaded from [GitHub repo](https://github.com/FaayPi/project-nlp-challenge.git)
+- **Validation Data**: Loaded from [GitHub repo](https://github.com/FaayPi/project-nlp-challenge.git)
 - **Format**: CSV files with columns: `label`, `title`, `text`, `subject`, `date`
 
 ### Duplicate Removal
